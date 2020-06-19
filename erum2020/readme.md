@@ -2,8 +2,8 @@
 
 ## Lightning talk: Reproducible Data Visualization with canvasXpress
 
-- [deck of slides](https://github.com/ginberg/conference-talks/erum2020/blob/master/reproducible_data_viz_cx.odp) on Friday
-- [canvasXpress chart](https://github.com/ginberg/conference-talks/erum2020/blob/master/popular_packages_chart.R), that I have used in the demo
+- [deck of slides](reproducible_data_viz_cx.odp) on Friday
+- [canvasXpress chart](popular_packages_chart.R), that I have used in the demo
 
 ## e-Rum2020 resources
 
