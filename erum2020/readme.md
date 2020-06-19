@@ -2,7 +2,7 @@
 
 ## Lightning talk: Reproducible Data Visualization with canvasXpress
 
-- [deck of slides](reproducible_data_viz_cx.odp) on Friday
+- [Slides](reproducible_data_viz_cx.odp)
 - [canvasXpress chart](popular_packages_chart.R), that I have used in the demo
 
 ## e-Rum2020 resources
